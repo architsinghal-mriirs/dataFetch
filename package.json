@@ -4,7 +4,6 @@
   "description": "this is very amazing package",
   "main": "FetchApi.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon ./src/FetchApi.js"
   },
   "dependencies": {
